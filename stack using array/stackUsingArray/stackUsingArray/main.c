@@ -16,6 +16,8 @@ int main()
     
     int n;
     
+    printf("Hello !!\n")
+    
     printf("How many integers would you like to store in the stack? \n") ;
     scanf("%d",&n) ;
     
